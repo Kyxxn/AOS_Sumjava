@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sound_array">
+        <item>물소리1</item>
+        <item>물소리2</item>
+        <item>물소리3</item>
+        <item>비소리</item>
+        <item>슬라임</item>
+    </string-array>
+
+    <string-array name="cycle_array">
+        <item>무한 반복</item>
+        <item>1분</item>
+        <item>2분</item>
+        <item>3분</item>
+        <item>4분</item>
+        <item>5분</item>
+        <item>6분</item>
+        <item>7분</item>
+        <item>8분</item>
+        <item>9분</item>
+        <item>10분</item>
+        <item>11분</item>
+        <item>12분</item>
+        <item>13분</item>
+        <item>14분</item>
+        <item>15분</item>
+        <item>16분</item>
+        <item>17분</item>
+        <item>18분</item>
+        <item>19분</item>
+        <item>20분</item>
+        <item>21분</item>
+        <item>22분</item>
+        <item>23분</item>
+        <item>24분</item>
+        <item>25분</item>
+        <item>26분</item>
+        <item>27분</item>
+        <item>28분</item>
+        <item>29분</item>
+        <item>30분</item>
+    </string-array>
+</resources>
