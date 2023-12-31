@@ -1,5 +1,13 @@
 # Sumjava_AOS
 
+### 개발 방법론
+- 애자일 방법론
+
+### 개발 기간
+2023년 07월 24일 ~ 08월 19일
+
+### 앱 실행화면
+
 ![시작화면](https://github.com/Kyxxn/Sumjava_AOS/assets/129862357/c5b21a48-48e0-4541-9838-e09c5cbea60c)
 
 ![메인화면](https://github.com/Kyxxn/Sumjava_AOS/assets/129862357/07d58566-2e09-4075-b96b-7fe3de231a4e)
